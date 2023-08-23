@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(167, 167, 25);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width:80%;
+    height: 60%;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(22, 80, 22);
+}
+
+h2{
+    font-size: 1.5em;
+    color: rgb(22, 80, 22);
+}
+
+
+ul, ol,p {
+ font-size: 1.2em;
+ background-color:rgba(227, 227, 209, 0.928);
+ border-radius: 5px;
+ margin:5px;
+ line-height: 30px;
+ text-align: justify;
+}
+
+
+a{
+    text-decoration:none;
+}
