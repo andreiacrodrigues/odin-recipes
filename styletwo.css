@@ -35,3 +35,21 @@ ul, ol,p {
 a{
     text-decoration:none;
 }
+
+button{
+    margin: auto;
+    display: block;
+    margin-top:20px;
+    background-color: rgba(149, 187, 129, 0.951);
+    border-radius: 5px;
+    width:200px;
+    
+}
+
+a:hover{
+    font-weight: bold;
+}
+
+a:visited{
+    color: black;
+}
